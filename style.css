@@ -11,3 +11,29 @@
  * Tags: flowerpower
  * Text Domain: flowerpower
  */
+
+.product-grid {
+    flex: 0 0 calc(10.00% - 10px);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 0 auto;
+    width: 70%;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+}
+
+.product {
+
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+.product img {
+    max-width: 50%;
+    height: auto;
+}

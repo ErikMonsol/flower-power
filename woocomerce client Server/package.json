@@ -1,0 +1,21 @@
+{
+  "name": "servermaking",
+  "version": "1.0.0",
+  "description": "rainydaysserver",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ServerProject"
+  },
+  "keywords": [
+    "RainyDaysCrossProject"
+  ],
+  "author": "Erik Solberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
